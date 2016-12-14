@@ -233,8 +233,8 @@ textarea.md-textarea.ng-touched.ng-invalid-required{
 
     /*FAB*/
     .btn-floating.btn-large {
-        width: 50px;
-        height: 50px;
+        width: 55px;
+        height: 55px;
     }
 
     .btn-floating.btn-small {
@@ -243,7 +243,7 @@ textarea.md-textarea.ng-touched.ng-invalid-required{
     }
 
     .btn-floating.btn-large i {
-        line-height: 50px;
+        line-height: 55px;
     }
     .btn-floating.btn-small i {
         line-height: 40px;
