@@ -231,10 +231,17 @@ textarea.md-textarea.ng-touched.ng-invalid-required{
         background-color: #1C2331;
     }
 
+    .flex-center {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+
     /*FAB*/
     .btn-floating.btn-large {
-        width: 55px;
-        height: 55px;
+        width: 56px;
+        height: 56px;
     }
 
     .btn-floating.btn-small {
@@ -288,6 +295,30 @@ textarea.md-textarea.ng-touched.ng-invalid-required{
     /*MODAL*/
     .modal-body{
         padding: 16px;
+    }
+
+    .divider-new {
+        display: flex;
+    }
+
+    .divider-new::before {
+        flex-grow: 1;
+        flex-shrink: 1;
+        flex-basis: 0;
+        margin: 0 .45em 0 0;
+    }
+
+    .divider-new::after {
+        flex-grow: 1;
+        flex-shrink: 1;
+        flex-basis: 0;
+        margin: 0 0 0 .45em;
+    }
+
+    .divider-new::after, .divider-new::before {
+        content: '';
+        height: 1.2px;
+        background: #666;
     }
 }
 
