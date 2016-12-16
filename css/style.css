@@ -16,6 +16,10 @@ body{
     background-size: cover;
 }
 
+.hm-black-strong .full-bg-img{
+    background-color: rgba(0,0,0,.85);
+}
+
 .flex-center {
     color: #fff;
 }
@@ -41,7 +45,7 @@ body{
 }
 
 .top-nav-collapse {
-    background-color: #1C2331;
+    background-color: #080811;
 }
 
 
@@ -219,16 +223,10 @@ textarea.md-textarea.ng-touched.ng-invalid-required{
 
 
 
-
-
-
-
-
-
 /*Media Queries*/
 @media only screen and (max-width: 768px) {
     .navbar {
-        background-color: #1C2331;
+        background-color: #080811;
     }
 
     /*FAB*/
@@ -243,7 +241,7 @@ textarea.md-textarea.ng-touched.ng-invalid-required{
     }
 
     .btn-floating.btn-large i {
-        line-height: 55px;
+        line-height: 56px;
     }
     .btn-floating.btn-small i {
         line-height: 40px;
