@@ -45,7 +45,7 @@ body{
 }
 
 .top-nav-collapse {
-    background-color: #0E0E1E;
+    background-color: #0b0b17;
 }
 
 
@@ -226,7 +226,7 @@ textarea.md-textarea.ng-touched.ng-invalid-required{
 /*Media Queries*/
 @media only screen and (max-width: 768px) {
     .navbar {
-        background-color: #0E0E1E;
+        background-color: #0b0b17;
     }
 
     /*FAB*/
