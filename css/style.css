@@ -17,7 +17,7 @@ body{
 }
 
 .hm-black-strong .full-bg-img{
-    background-color: rgba(0,0,0,.85);
+    background-color: rgba(0,0,0,.8);
 }
 
 .flex-center {
@@ -45,7 +45,7 @@ body{
 }
 
 .top-nav-collapse {
-    background-color: #080811;
+    background-color: #131329;
 }
 
 
@@ -226,7 +226,7 @@ textarea.md-textarea.ng-touched.ng-invalid-required{
 /*Media Queries*/
 @media only screen and (max-width: 768px) {
     .navbar {
-        background-color: #080811;
+        background-color: #131329;
     }
 
     /*FAB*/
