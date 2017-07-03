@@ -30,6 +30,7 @@ body{position:relative;}
 .modal-body{padding:32px;}
 textarea.md-textarea.ng-touched.ng-valid-required{border-bottom:1px solid #4CAF50;}
 textarea.md-textarea.ng-touched.ng-invalid-required{border-bottom:1px solid #d9534f;}
+.article_list{padding-bottom: 5px; border-bottom: 1px solid #ccc; margin-bottom: 25px;}
 .red{color:#F44336!important;}
 .deep-blue{color:#45526e;background-color:#45526e;}
 .facebook{background-color:#3b5998;}
