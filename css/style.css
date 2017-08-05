@@ -11,6 +11,7 @@ body{position:relative;}
 .scrolling-navbar{-webkit-transition:background .5s ease-in-out, padding .5s ease-in-out;-moz-transition:background .5s ease-in-out, padding .5s ease-in-out;transition:background .5s ease-in-out, padding .5s ease-in-out;}
 .top-nav-collapse{background-color:#0b0b17;}
 .fixed-action-btn.horizontal{padding:0 0 0 15px;}
+.hoverable{min-height: 540px}
 .fixed-action-btn{position:fixed;right:40px;bottom:40px;margin-bottom:0;z-index:998;}
 .fixed-action-btn-project{position:fixed;right:16px;bottom:23px;margin-bottom:0;z-index:998;}
 .btn-floating.btn-large{width:56px;height:56px;}
