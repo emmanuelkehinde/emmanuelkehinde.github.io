@@ -1,3 +1,3 @@
 # emmanuelkehinde.github.io
 
-My Beautiful Website
+My Personal Website
